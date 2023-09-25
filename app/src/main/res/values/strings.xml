@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RepairOrder2_Lesh</string>
+    <string-array name = "Values">
+        <Item>
+            Regular
+            Better
+            Best
+        </Item>
+    </string-array>
+</resources>
